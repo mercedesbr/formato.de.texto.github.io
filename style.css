@@ -7,10 +7,22 @@
     background-color: blue;
 }
 
-.darth{
+#darth{
     font-size: 24px;
 }
 
-.luke{
+#luke{
     font-style: italic;
+}
+.soldados{
+    border: 4px groove rgb(127, 223, 255);
+}
+.espaciado{
+    letter-spacing: 3px;
+}
+.centrado{
+    text-align: center;
+}
+.nave {
+    text-transform: uppercase;
 }
